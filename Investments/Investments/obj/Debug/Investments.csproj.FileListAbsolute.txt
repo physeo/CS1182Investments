@@ -1,0 +1,9 @@
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\bin\Debug\Investments.exe.config
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\obj\Debug\Investments.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\bin\Debug\Investments.exe
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\bin\Debug\Investments.pdb
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\obj\Debug\Investments.exe
+C:\Users\Bryce\Dropbox\School stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\obj\Debug\Investments.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\bin\Debug\Investments.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\obj\Debug\Investments.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Investments\Investments\obj\Debug\Investments.pdb
